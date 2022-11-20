@@ -1,2 +1,2 @@
 # Proteus
- Proteus ortamında gerçekleştirdiğim Deneyler(Projeler)
+ Proteus Ortamında Gerçekleştirdiğim Deneyler(Projeler)
